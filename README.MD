@@ -1,6 +1,6 @@
-# Coding Clinic using TryDotNet
+# Coding Clinic using Try .Net
 
-This repo is a quick play with [TryDotNet](https://github.com/dotnet/try) to see how easy it would be to port the [Coding Clinic](https://coding.clinic) to TryDotNet.
+This repo is a quick play with [Try .Net](https://github.com/dotnet/try) to see how easy it would be to port the [Coding Clinic](https://coding.clinic).
 
 ## To run this
 
@@ -24,4 +24,4 @@ Click on the link below to code using the second workshop of the Coding Clinic:
 
 [Learning C# - Workshop two](./Lesson2.md)
 
-> This will only work using DotNetTry, clicking this link from GitHub will not give you a page that can run code.
+> This will only work using Try .NET, clicking this link from GitHub will not give you a page that can run code.
