@@ -4,6 +4,8 @@ This repo is a quick play with [TryDotNet](https://github.com/dotnet/try) to see
 
 ## To run this
 
+* Clone this repo.
+
 * Install the global [dotnet try tool](https://www.nuget.org/packages/dotnet-try/):
   
   ```sh
@@ -21,3 +23,5 @@ This will launch this document in your browser.
 Click on the link below to code using the second workshop of the Coding Clinic:
 
 [Learning C# - Workshop two](./Lesson2.md)
+
+> This will only work using DotNetTry, clicking this link from GitHub will not give you a page that can run code.
