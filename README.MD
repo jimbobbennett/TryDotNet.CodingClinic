@@ -22,6 +22,6 @@ This will launch this document in your browser.
 
 Click on the link below to code using the second workshop of the Coding Clinic:
 
-[Learning C# - Workshop two](./Lesson2.md)
+[Learning C# - Workshop two](./Workshop2.md)
 
 > This will only work using Try .NET, clicking this link from GitHub will not give you a page that can run code.
