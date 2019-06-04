@@ -16,6 +16,9 @@ namespace TryDotNet.CodingClinic
                 case nameof(Workshop3):
                     Workshop3.RunSample(bits[1]);
                     break;
+                case nameof(Workshop4):
+                    Workshop4.RunSample(bits[1]);
+                    break;
             }
         }
     }

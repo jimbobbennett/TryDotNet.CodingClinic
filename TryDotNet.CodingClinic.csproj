@@ -10,6 +10,7 @@
     <Compile Include="Program.cs"/>
     <Compile Include="Workshop2.cs"/>
     <Compile Include="Workshop3.cs"/>
+    <Compile Include="Workshop4.cs"/>
   </ItemGroup>
 
 </Project>

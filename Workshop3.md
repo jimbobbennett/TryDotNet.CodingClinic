@@ -42,4 +42,4 @@ There are several other types of conditional statement. If you feel like it, you
 
 <hr>
 
-When you are ready, move on to the [next workshop](./Workshop3.md).
+When you are ready, move on to the [next workshop](./Workshop4.md).
